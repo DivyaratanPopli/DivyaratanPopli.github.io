@@ -11,14 +11,15 @@ redirect_from:
 
 ## Education
 
-**Ph.D. Bioinformatics** — Max Planck Institute for Evolutionary Anthropology, Leipzig (2018–2024)
-*Thesis: Estimating relatedness with ancient DNA*
+**Ph.D. Bioinformatics** — Max Planck Institute for Evolutionary Anthropology, Leipzig (2018–2024)  
+*Thesis: Estimating relatedness with ancient DNA*  
 Affiliated to Faculty of Mathematics and Informatics, Leipzig University
 
-**M.Sc. Biology** — Indian Institute of Science, Bangalore (2016–2017)
-*Thesis: Effect of Ultrasound on Neuronal Network Communication*
+**M.Sc. Biology** — Indian Institute of Science, Bangalore (2016–2017)  
+*Thesis: Effect of Ultrasound on Neuronal Network Communication*  
 
-**B.Tech. Biological Sciences and Bioengineering** — Indian Institute of Technology, Kanpur (2010–2014)
+**B.Tech. Biological Sciences and Bioengineering** — Indian Institute of Technology, Kanpur (2010–2014)  
+*Thesis: Quantifying the correlation between Pupil Diameter and Mind Wandering*  
 
 ## Experience
 
